@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-15T20:03:31 IST" name="Default suite" finished-at="2023-02-15T20:03:38 IST" duration-ms="7579">
+    <groups>
+    </groups>
+    <test started-at="2023-02-15T20:03:31 IST" name="Default test" finished-at="2023-02-15T20:03:38 IST" duration-ms="7579">
+      <class name="com.test.RA.TestLogIn">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.RA.TestLogIn@47987356]" started-at="2023-02-15T20:03:31 IST" name="setUp" finished-at="2023-02-15T20:03:31 IST" duration-ms="85" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TestLogin()[pri:0, instance:com.test.RA.TestLogIn@47987356]" started-at="2023-02-15T20:03:31 IST" name="TestLogin" finished-at="2023-02-15T20:03:38 IST" duration-ms="7437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLogin -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.test.RA.TestLogIn@47987356]" started-at="2023-02-15T20:03:38 IST" name="TearDown" finished-at="2023-02-15T20:03:38 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.test.RA.TestLogIn -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
